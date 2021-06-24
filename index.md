@@ -10,7 +10,7 @@
 Try the demo 
 
 #### Twitter Sentiment Analysis with BERT on EU-Solidarity
-[![Open In Collab]](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)
 
 ---
 #### Sentence similarity based on semantic nets and corpus statistics
