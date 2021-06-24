@@ -5,9 +5,11 @@
 ### Natural Language Processing 
 
 #### RASA Chatbot
+[![Generic badge](https://img.shields.io/badge/Open-Demo-Blue.svg)](https://shields.io/)
+Try the demo 
 
-
-
+#### Twitter Sentiment Analysis with BERT on EU-Solidarity
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 ---
 #### Sentence similarity based on semantic nets and corpus statistics]
