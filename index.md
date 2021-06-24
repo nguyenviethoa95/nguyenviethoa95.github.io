@@ -10,17 +10,14 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
+[Sentence similarity based on semantic nets and corpus statistics](https://github.com/nguyenviethoa95/sentence_word_similarity-matrix/blob/main/sentence_word_similarity_matrix.ipynb)
 
 
 ---
 
 ### Data Science
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Emoticon Generation with VAE ](http://example.com/)
+
 
 ---
 
