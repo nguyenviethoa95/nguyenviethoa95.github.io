@@ -2,23 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Natural Language Processing 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[RASA Chatbot](/sample_page)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
-### Category Name 2
-
+### Data Science
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
@@ -27,7 +24,8 @@
 
 ---
 
-
+### Blockchain
+[Blockchain in IoT with HyperLedger Fabric Framework](/pdf/final_presentation.pdf)
 
 
 ---
