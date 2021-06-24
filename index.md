@@ -25,9 +25,6 @@
 ---
 
 ### Blockchain
-[Blockchain in IoT with HyperLedger Fabric Framework](/pdf/final_presentation.pdf)
+[Blockchain in IoT with HyperLedger Fabric Framework](/pdf/Final Presentation.pdf)
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
