@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Hoa Nguyen # your name (or website title) here
+logo: "/images/image.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am pursing MS degree in Computer Science with focus on NLP and Deep Learning  at the Technical University of Darmstadt, Germany 
   <br><br>
-  Second description 
+  I received my Bachelor Degree in Business Information System at the Nuremberg Institute of Technology, Germany 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/hoavietnguyen/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
