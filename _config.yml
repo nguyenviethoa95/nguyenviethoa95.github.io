@@ -1,18 +1,17 @@
 title:  <p align="center"> Hoa Nguyen </p>
 logo: "/images/image.jpg?raw=true" 
 description:
-<p align="center">
-<a href="pdf/CV_Nguyen.pdf">Resume</a> |
-<a href="https://www.linkedin.com/in/hoavietnguyen/">LinkedIn</a> |
-<a href="https://github.com/nguyenviethoa95">GitHub</a>
-</p>
+  <p align="center">
+  <a href="pdf/CV_Nguyen.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/hoavietnguyen/">LinkedIn</a> |
+  <a href="https://github.com/nguyenviethoa95">GitHub</a>
+  </p>
 
-<p align="justify">
-I am pursing MS degree in Computer Science with focus on NLP and Deep Learning  at the Technical University of Darmstadt, Germany 
-<br><br>
-I received my Bachelor Degree in Business Information System at the Nuremberg Institute of Technology, Germany 
-<br><br>
-</p>
-  
+  <p align="justify">
+  I am pursing MS degree in Computer Science with focus on NLP and Deep Learning  at the Technical University of Darmstadt, Germany 
+  <br><br>
+  I received my Bachelor Degree in Business Information System at the Nuremberg Institute of Technology, Germany 
+  <br><br>
+  </p>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 
