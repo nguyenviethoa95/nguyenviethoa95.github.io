@@ -19,7 +19,7 @@ Try the demo
 
 ---
 
-### Data Science
+### Computer Vision
 #### Emoticon Generation with VAE 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o1qmBDXCxMhZRncgdA_IdkVNalhIrsVg?usp=sharing)
 
