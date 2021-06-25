@@ -25,6 +25,8 @@ Try the demo
 ## Computer Vision
 ### [Emoticon Generation with VAE](projects/vae)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o1qmBDXCxMhZRncgdA_IdkVNalhIrsVg?usp=sharing)
+<center><img src="images/reconstructed.png"/></center>
+Reconstructed face with VAE
 
 ---
 
