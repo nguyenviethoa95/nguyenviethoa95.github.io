@@ -44,7 +44,7 @@ Reconstructed face with VAE
 
 <div align="justify">
 Prototype of a full stack solution that generates humidity  data using sensors, which is persisted  in the Hyperledger Fabric blockchain framework and visualizes the blockchain data using Flask.
-Read our project's report <a href="pdf/Final Presentation.pdf">here</a>
+Read our project's report <a href="pdf/Final_Project_Report__HyperLedger.pdf">here</a>
 </div >
 
 <center><img src="images/hyperledgernetwork.png"/></center>
@@ -55,7 +55,7 @@ Read our project's report <a href="pdf/Final Presentation.pdf">here</a>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nguyenviethoa95/Baugenehmigung-Crawler)  
 <div align="justify">
 The use of the web crawler is inevitable when it comes to collecting massive data set. The use case for the web crawler implemented in this thesis is to extract information from an official announcement containing new building permissions. While running web crawler on a local machine is fine or do-once tasks, and a small amount of data, where the crawling process can be triggered manually. However, this is not a sustainable, and reliable solution  for retrieving a huge amount of data. Web crawler can be optimized with deploying into the cloud to reduce operational management and increase parallelism. Cloud computing also provides greater flexibility in term of computing capacity, and IP address.
-Read my thesis <a href="pdf/BachelorTheis.pdf">here</a>
+Read my thesis <a href="pdf/BachelorThesis.pdf">here</a>
 </div>
 
 <center><img src="images/thesis2.png"/></center>
