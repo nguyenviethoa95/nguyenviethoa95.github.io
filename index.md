@@ -10,7 +10,7 @@
 Try the demo 
 
 ### [Twitter Sentiment Analysis with BERT on EU-Solidarity](projects/twitter)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Puob7U7i0aoacFCQqi4K0GclSXfhl12C?usp=sharing)
 
 ---
 ### [Sentence similarity based on semantic nets and corpus statistics](projects/sentsim)
@@ -33,9 +33,9 @@ Reconstructed face with VAE
 ### [Emotion Recognition with Facial Landmark](projects/faciallandmark)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o1qmBDXCxMhZRncgdA_IdkVNalhIrsVg?usp=sharing)
 
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 
 ## Software Engineering
