@@ -1,37 +1,11 @@
 # Portfolio
 
 ---
-
-## Natural Language Processing 
----
-### [RASA Chatbot](projects/rasa)
-[![Generic badge](https://img.shields.io/badge/Open-Demo-Blue.svg)](https://shields.io/)  
-
-Try the demo 
-
-[Read more >>](projects/rasa)
-
----
-
-### [Twitter Sentiment Analysis with BERT on EU-Solidarity](projects/twitter)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Puob7U7i0aoacFCQqi4K0GclSXfhl12C?usp=sharing)
-
-[Read more >>](projects/twitter)
-
----
-### [Sentence similarity based on semantic nets and corpus statistics](projects/sentsim)
-<!---[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)-->
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nguyenviethoa95/sentence_word_similarity-matrix/blob/main/sentence_word_similarity_matrix.ipynb)
-
-[Read more >>](projects/sentsim)
-<br/>
-<br/>
-<br/>
-
----
 ## Computer Vision
 ### [Emoticon Generation with VAE](projects/vae)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o1qmBDXCxMhZRncgdA_IdkVNalhIrsVg?usp=sharing)
+<br/>
+In this project,  a VAE-based generative model is implemented that can produce new emojis, resembling those we are familiar with. Moreoever,a latent space interpolation & analysis is also done.
 <br/>
 <center><img src="images/reconstructed.png"/></center>
 Reconstructed face with VAE
@@ -41,8 +15,12 @@ Reconstructed face with VAE
 ---
 
 ### [Emotion Recognition with Facial Landmark](projects/faciallandmark)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o1qmBDXCxMhZRncgdA_IdkVNalhIrsVg?usp=sharing)
-
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MGQX07TFYVsMidh6F0rcKmjMAnfZS-md?usp=sharing)
+<br/>
+Facial expression can be considered as concrete evidence to identify human feelings. 
+With the recent advancement in computer vision and deep learning, it is possible to detect emotions from facial images. Facial keypoint detection serves as a basis for Emotional AI application such as analysis of facial expression, detecting dysmorphic facial signs for medical diagnosis. Detecting facial keypoints is a very challenging problem since facial features can vary greately from one individual to another. The primary objective of this project is to predict keypoint positions on image by inspecting  different deep learning models based on Convolutional Neural Network. 
+<br/>
+<center><img src="images/facial_landmark.png"/></center>
 [Read more >>](projects/faciallandmark)
 
 <br/>
@@ -78,3 +56,36 @@ Read my thesis <a href="pdf/BachelorThesis.pdf">here</a>
 
 <br/>
 <center><img src="images/thesis2.png"/></center>
+
+
+<br/>
+<br/>
+<br/>
+
+---
+
+## Natural Language Processing 
+---
+### [RASA Chatbot](projects/rasa)
+[![Generic badge](https://img.shields.io/badge/Open-Demo-Blue.svg)](https://shields.io/)  
+
+Try the demo 
+
+[Read more >>](projects/rasa)
+
+---
+
+### [Twitter Sentiment Analysis with BERT on EU-Solidarity](projects/twitter)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Puob7U7i0aoacFCQqi4K0GclSXfhl12C?usp=sharing)
+
+[Read more >>](projects/twitter)
+
+---
+### [Sentence similarity based on semantic nets and corpus statistics](projects/sentsim)
+<!---[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)-->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nguyenviethoa95/sentence_word_similarity-matrix/blob/main/sentence_word_similarity_matrix.ipynb)
+
+[Read more >>](projects/sentsim)
+<br/>
+<br/>
+<br/>
