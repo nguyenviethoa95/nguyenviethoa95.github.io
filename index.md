@@ -73,14 +73,14 @@ Read my thesis <a href="pdf/BachelorThesis.pdf">here</a>
 Try the demo 
 
 [Read more >>](projects/rasa)
-
+-->
 ---
 
 ### [Twitter Sentiment Analysis with BERT on EU-Solidarity](projects/twitter)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Puob7U7i0aoacFCQqi4K0GclSXfhl12C?usp=sharing)
 
 [Read more >>](projects/twitter)
--->
+
 ---
 ### [Sentence similarity based on semantic nets and corpus statistics](projects/sentsim)
 <!---[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)-->
