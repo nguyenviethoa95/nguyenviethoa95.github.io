@@ -66,6 +66,7 @@ Read my thesis <a href="pdf/BachelorThesis.pdf">here</a>
 
 ## Natural Language Processing 
 ---
+<!---
 ### [RASA Chatbot](projects/rasa)
 [![Generic badge](https://img.shields.io/badge/Open-Demo-Blue.svg)](https://shields.io/)  
 
@@ -79,7 +80,7 @@ Try the demo
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Puob7U7i0aoacFCQqi4K0GclSXfhl12C?usp=sharing)
 
 [Read more >>](projects/twitter)
-
+-->
 ---
 ### [Sentence similarity based on semantic nets and corpus statistics](projects/sentsim)
 <!---[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)-->
