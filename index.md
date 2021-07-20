@@ -1,7 +1,10 @@
 # Portfolio
 
 
-## Computer Visio
+## Computer Vision
+
+---
+
 ### [Emoticon Generation with VAE](projects/vae)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o1qmBDXCxMhZRncgdA_IdkVNalhIrsVg?usp=sharing)
 <br/>
@@ -12,7 +15,7 @@ Reconstructed face with VAE
 
 [Read more >>](projects/vae)
 
----
+
 
 ### [Emotion Recognition with Facial Landmark](projects/faciallandmark)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MGQX07TFYVsMidh6F0rcKmjMAnfZS-md?usp=sharing)
@@ -38,6 +41,7 @@ In this project, we focus on a real application of machine learning in marketing
 [Read more >>](projects/telcochurn.md)
 
 ---
+
 ## Software Engineering
 
 ### [Blockchain](projects/blockchain)
@@ -52,7 +56,7 @@ Read our project's report <a href="pdf/Final_Project_Report__HyperLedger.pdf">he
 <br/>
 <center><img src="images/hyperledgernetwork.png"/></center>
 
-  
+ 
 ---
 
 ### [Web Crawling](projects/webcrawling)
@@ -75,7 +79,6 @@ Read my thesis <a href="pdf/BachelorThesis.pdf">here</a>
 ---
 
 ## Natural Language Processing 
----
 <!---
 ### [RASA Chatbot](projects/rasa)
 [![Generic badge](https://img.shields.io/badge/Open-Demo-Blue.svg)](https://shields.io/)  
@@ -84,14 +87,13 @@ Try the demo
 
 [Read more >>](projects/rasa)
 -->
----
 
 ### [Twitter Sentiment Analysis with BERT on EU-Solidarity](projects/twitter)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Puob7U7i0aoacFCQqi4K0GclSXfhl12C?usp=sharing)
 
 [Read more >>](projects/twitter)
 
----
+
 ### [Sentence similarity based on semantic nets and corpus statistics](projects/sentsim)
 <!---[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)-->
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nguyenviethoa95/sentence_word_similarity-matrix/blob/main/sentence_word_similarity_matrix.ipynb)
