@@ -1,7 +1,8 @@
 # Portfolio
 
----
+
 ## Computer Vision
+---
 ### [Emoticon Generation with VAE](projects/vae)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o1qmBDXCxMhZRncgdA_IdkVNalhIrsVg?usp=sharing)
 <br/>
@@ -26,6 +27,13 @@ With the recent advancement in computer vision and deep learning, it is possible
 <br/>
 <br/>
 <br/>
+
+## Machine Learning
+
+### Telco Customer Churn
+[![Open In Collab](https://colab.research.google.com/drive/1ApRkueSNKG_tGjALBsttVHhqdekn9zhR?usp=sharing)
+<br/>
+[Read more >>](projects/telcochurn)
 
 
 ## Software Engineering
