@@ -26,7 +26,9 @@ With the recent advancement in computer vision and deep learning, it is possible
 <br/>
 <br/>
 <br/>
+
 --- 
+
 ## Machine Learning
 
 ### Telco Customer Churn
