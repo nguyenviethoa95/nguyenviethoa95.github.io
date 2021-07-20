@@ -32,7 +32,7 @@ With the recent advancement in computer vision and deep learning, it is possible
 
 ### Telco Customer Churn
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ApRkueSNKG_tGjALBsttVHhqdekn9zhR?usp=sharing)
-
+In this project, we focus on a real application of machine learning in marketing. The dataset we will be using is the Telco dataset available on [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn). Our  objectives is to find out some interesting statistics about the behavior of our customers and predict some measure that can affect our sales. 
 [Read more >>](projects/telcochurn.md)
 
 
