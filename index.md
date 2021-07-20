@@ -31,7 +31,7 @@ With the recent advancement in computer vision and deep learning, it is possible
 ## Machine Learning
 
 ### Telco Customer Churn
-[![Open In Collab](https://colab.research.google.com/drive/1ApRkueSNKG_tGjALBsttVHhqdekn9zhR?usp=sharing)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ApRkueSNKG_tGjALBsttVHhqdekn9zhR?usp=sharing)
 <br/>
 [Read more >>](projects/telcochurn)
 
